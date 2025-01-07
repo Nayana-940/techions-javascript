@@ -1,0 +1,30 @@
+
+# JavaScript Naming Convention.This guide provides an overview of the most commonly used naming conventions in JavaScript. These conventions help improve code readability and consistency, making it easier to collaborate and maintain code in the long term.
+
+## Key Naming Conventions
+
+1. Camel Case: 
+   - Used for variables and function names.
+   - Example: `myVariable`, `calculateTotal()`
+
+2. Pascal Case:
+   - Used for class and constructor names.
+   - Example: `PersonInfo`, `CarModel`
+
+3. Snake Case:
+   - Used for constants, where all letters are uppercase and words are separated by underscores.
+   - Example: `MAX_LENGTH`, `API_KEY`
+
+4. Kebab Case:
+   - Used for file names and URLs, where words are lowercase and separated by hyphens.
+   - Example: `user-profile.js`, `get-user-info`
+
+5. Uppercase for Constants:
+   - Constants are usually written in uppercase to differentiate them from other variables.
+   - Example: `PI`, `TAX_RATE`
+
+## Why Naming Conventions Matter:
+- They make code easier to read and understand.
+- Help prevent errors and confusion in collaborative environments.
+- Provide a consistent structure across projects.
+
