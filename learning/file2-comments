@@ -1,0 +1,11 @@
+/*
+The code below will change
+the heading with id = "myH"
+and the paragraph with id = "myP"
+in my web page:
+*/
+document.getElementById("myH").innerHTML = "My First Page";
+document.getElementById("myP").innerHTML = "My first paragraph.";
+
+#It is most common to use single line comments.
+Block comments are often used for formal documentation.
