@@ -18,15 +18,40 @@ console.log("value of y=",y)
 
 //JavaScript identifiers are case-sensitive.
 
+//DATA TYPES
+
 const pi = 3.14;
-console.log("value of pi=",pi)
+console.log("value of pi=",pi)//Numbers are written without quotes.
 
 
 let person = "John Doe";
-console.log("Name of  a person=",person)
+console.log("Name of  a person=",person)//Strings are written with quotes.
+
 
 let answer = 'Yes I am!';
 console.log(answer)
+
+//variable declaration
+//You can declare many variables in one statement.
+
+//Start the statement with let and separate the variables by comma:
+let Person = "John Doe", carName = "Volvo", price = 200;
+
+
+
+//You cannot re-declare a variable declared with let or const.
+
+//This will not work:
+
+//let carName = "Volvo";
+//let carName;    We can't re declare like this
+let $$$ = 2;
+let $myMoney = 5;//The dollar sign is treated as a letter in JavaScript names.
+
+let _lastName = "Johnson";
+let _x = 2;
+let _100 = 5;// Javascript uses underscore as letters
+
 
 
 
