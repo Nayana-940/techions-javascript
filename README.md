@@ -7,4 +7,5 @@ Example in js using camelcase
 Commands used in js
 # file3.js
 About the variable in javascript
-
+# file 4.js 
+also about the varibale
