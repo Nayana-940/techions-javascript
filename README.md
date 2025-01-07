@@ -3,3 +3,8 @@ Javascript naming conversions-This guide provides an overview of the most common
 
 # file 1-Example:
 Example in js using camelcase 
+# file2 - comments
+Commands used in js
+# file3.js
+About the variable in javascript
+
