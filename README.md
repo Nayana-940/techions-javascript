@@ -11,5 +11,8 @@ About the variable in javascript
 also about the varibale and data types
 # file5.js-constants
 describe about the variable const
-
+# file6
+Javascript operators
+# file7.js
+data types in javascript
 
