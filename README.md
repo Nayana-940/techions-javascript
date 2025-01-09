@@ -15,4 +15,7 @@ describe about the variable const
 Javascript operators
 # file7.js
 data types in javascript
+# funt.js
+A JavaScript function is a block of code designed to perform a particular task.
+A JavaScript function is executed when "something" invokes it (calls it).
 

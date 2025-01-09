@@ -31,4 +31,26 @@ let person = {
   // Set example
   let set = new Set([1, 2, 3, 3]);
   console.log(set);  // Set { 1, 2, 3 }
+
+
+
+  const cars = ["Saab", "Volvo", "BMW"];
+  console.log(cars)
+
+  const Person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+  console.log(Person)
+
+
+
+// The typeof Operator
+//You can use the JavaScript typeof operator to find the type of a JavaScript variable.
+
+//The typeof operator returns the type of a variable or an expression:
+
+typeof 0              // Returns "number"
+typeof 314            // Returns "number"
+typeof 3.14           // Returns "number"
+typeof (3)            // Returns "number"
+typeof (3 + 4)        // Returns "number"
+
   
